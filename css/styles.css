@@ -487,6 +487,11 @@ progress {
   display: none !important;
 }
 
+.full-width-img {
+  width: 100%;
+  max-width: 100%;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
